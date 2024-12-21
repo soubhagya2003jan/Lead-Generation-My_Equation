@@ -13,5 +13,3 @@ This assignment by My Equation provides a comprehensive analysis of lead generat
 - **Tableau Dashboard** 📊: The dashboard showcasing interactive visual insights will be available soon.
 
 ![Lead Generation Dashboard](https://github.com/user-attachments/assets/8c9be867-2b4f-4c4d-968c-d49c63345c9d)
-![image](https://github.com/user-attachments/assets/38a4247a-d051-4b9b-b73e-f968db2a8eda) [https://shourai.io/wp-content/uploads/2020/07/1_xQ7MvYqCVtmdDHvNAU3ztA.png](https://shourai.io/wp-content/uploads/2020/07/1_xQ7MvYqCVtmdDHvNAU3ztA.png)
-
