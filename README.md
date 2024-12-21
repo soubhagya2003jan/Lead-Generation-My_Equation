@@ -10,6 +10,5 @@ This assignment by My Equation provides a comprehensive analysis of lead generat
 
 ### Project Deliverables:
 - **Jupyter Notebook** 📝: The full analysis and code are available for review [here](https://github.com/soubhagya2003jan/Lead-Generation-My_Equation/blob/main/Lead_Generation.ipynb).
-- **Tableau Dashboard** 📊: The dashboard showcasing interactive visual insights will be available soon.
 
 ![Lead Generation Dashboard](https://github.com/user-attachments/assets/8c9be867-2b4f-4c4d-968c-d49c63345c9d)
